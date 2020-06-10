@@ -3,13 +3,16 @@
 晓哲智能云呼叫系统 由杭州哲信 智能平台部门投入20人团队，基于部分开源系统(如freeswitch)完全自主研发，历时一年耗资超500万。
 特性从 纯人工呼叫系统，纯机器人呼叫系统，机器人转人工呼叫系统，接待系统，话术设计管理，线路管理，短信发送，客户管理，任务管理。
 详细产品特性介绍及适应场景参见：http://xiaozheai.zhexinit.com/#/index
+
 ![智能云呼叫中心首页](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E9%A6%96%E9%A1%B5.jpg)
+
 ![智能云呼叫中心话术设计](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E8%AF%9D%E6%9C%AF%E8%AE%BE%E8%AE%A1.jpg)
 
 
 # 系统架构
 系统核心研发人员包括 华为云架构师，资深语音系统专家，NLP技术专家，高级大数据工程师 及 前后端高级工程师。
 系统采用分布式微服务架构，运维面、管理面、数据面分离，具有高度的水平扩展和安全隔离机制。 整体架构如下图所示：
+
 ![智能云呼叫中心架构图](https://github.com/yinzhaoyang/aicc/blob/master/architecture.png)
 
 # 成功案例
