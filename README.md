@@ -5,7 +5,7 @@
 产品功能包括 纯人工电话呼叫系统，纯机器人电话呼叫系统，机器人转人工电话呼叫系统，机器人电话接待系统，机器人对话逻辑设计系统，多源线路管理及智能调度，短信管理发送，客户管理，任务管理，客户智能标签及分析。</br>
 详细产品特性介绍及适应场景参见：http://xiaozheai.zhexinit.com/#/index </br>
 
-![智能云呼叫中心首页](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E9%A6%96%E9%A1%B5.jpg)
+![智能云呼叫中心首页](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E9%A6%96%E9%A1%B5.png)
 
 ![智能云呼叫中心话术设计](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E8%AF%9D%E6%9C%AF%E8%AE%BE%E8%AE%A1.jpg)
 
