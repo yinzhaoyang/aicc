@@ -5,16 +5,16 @@
 产品功能包括 纯人工电话呼叫系统，纯机器人电话呼叫系统，机器人转人工电话呼叫系统，机器人电话接待系统，机器人对话逻辑设计系统，多源线路管理及智能调度，短信管理发送，客户管理，任务管理，客户智能标签及分析。</br>
 详细产品特性介绍及适应场景参见：http://xiaozheai.zhexinit.com/#/index </br>
 
-![智能云呼叫中心首页](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E9%A6%96%E9%A1%B5.png)
+![智能云呼叫中心首页](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/UI-%E9%A6%96%E9%A1%B5.png)
 
-![智能云呼叫中心话术设计](https://github.com/yinzhaoyang/aicc/blob/master/UI-%E8%AF%9D%E6%9C%AF%E8%AE%BE%E8%AE%A1.jpg)
+![智能云呼叫中心话术设计](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/UI-%E8%AF%9D%E6%9C%AF%E8%AE%BE%E8%AE%A1.jpg)
 
 
 # 系统架构
 系统核心研发人员包括 华为云架构师，资深语音系统专家，NLP技术专家，高级大数据工程师 及 前后端高级工程师。</br>
 系统采用分布式微服务架构，运维面、管理面、数据面分离，具有高度的水平扩展和安全隔离机制。 整体架构如下图所示：</br>
 
-![智能云呼叫中心架构图](https://github.com/yinzhaoyang/aicc/blob/master/architecture.png)
+![智能云呼叫中心架构图](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/architecture.png)
 
 # 成功案例
 ## SaaS模式
