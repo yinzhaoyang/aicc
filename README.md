@@ -7,7 +7,7 @@
 
 ![智能云呼叫中心首页](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/UI-%E9%A6%96%E9%A1%B5.png)
 
-![智能云呼叫中心话术设计](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/UI-%E8%AF%9D%E6%9C%AF%E8%AE%BE%E8%AE%A1.jpg)
+![智能云呼叫中心话术设计](https://zhexin-aicc.oss-cn-hangzhou.aliyuncs.com/doc/UI-%E5%AF%B9%E8%AF%9D%E8%AE%BE%E8%AE%A1.jpg)
 
 
 # 系统架构
